@@ -11,7 +11,7 @@ public class Main {
                 {16,17,18,19,20},
                 {21,22,23,24,25}};
 
-//        print.matrixPrint(matrix);
+        print.matrixPrint(matrix);
         print.matrixPrint(rotate.rotateNxN(matrix));
 
     }
